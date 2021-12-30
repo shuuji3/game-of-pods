@@ -1,2 +1,3 @@
 - bravo-drupal: Nyk skan jiva schedulara! Zer poda! Zer poda! Zer poda!
 - pento-file-server: Aksios Podo, ilon misas! Kesrio syt logis zobrie issa se ossyngnoti errars
+- redis-island: Sīkudi nopāzmi! Valar dohaeris episierve!
